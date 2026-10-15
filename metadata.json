@@ -1,0 +1,8 @@
+{
+  "name": "SolarWise AI",
+  "description": "AI-powered Solar Design Studio by Smart Flora to configure buildings, simulate rooftop solar panels in an interactive 3D Digital Twin, explore sunlight and shadows, and estimate clean energy returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
